@@ -148,7 +148,7 @@ while ($row=mysqli_fetch_array($ret)) {
                 <div class="donate-one__img">
 
                     <iframe width="600" height="512" id="gmap_canvas"
-                        src="https://www.google.com/maps/embed/v1/place?q=NERIM+Group+of+Institutions,+Padma+Nath+sarmah+Bhawan,+Tripura+Road,+Jaya+Nagar,+Khanapara,+Guwahati,+Assam,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                       
                         frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                 </div>
             </div>
