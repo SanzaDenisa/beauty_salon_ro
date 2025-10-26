@@ -115,8 +115,7 @@ while ($row=mysqli_fetch_array($ret)) {
         </div>
     </div>
 <!-- google map  -->
-    <!-- <div style="overflow:hidden;resize:none;max-width:100%;width:1500px;height:500px;"><div id="my-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=NERIM+Group+of+Institutions,+Padma+Nath+sarmah+Bhawan,+Tripura+Road,+Jaya+Nagar,+Khanapara,+Guwahati,+Assam,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="from-embedmap-code" href="https://www.bootstrapskins.com/themes" id="authorize-maps-data">premium bootstrap themes</a><style>#my-map-display img{max-height:none;max-width:none!important;background:none!important;}</style></div> -->
-<!-- google map end  -->
+  
 <section class="enquiry">
     <div class="enquiry-section">
        
